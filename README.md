@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tee0111
 - 👀 I’m interested in bringing new ideas to life
-- 🌱 I’m currently learning Information Technology at SLIIT
+-  I’m currently learning Information Technology at SLIIT
 - 💞️ I’m looking to collaborate on interesting projects
   
   
